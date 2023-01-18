@@ -26,7 +26,7 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Phan Duc Anh 123
+              Phan Duc Anh
               <Image
                 src="/vercel.svg"
                 alt="Vercel Logo"
